@@ -1,0 +1,16 @@
+
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+  }
+
+  .card {
+    justify-content: space-around;
+  }
+
+  .card-img-top {
+    width: 275px;
+  }
